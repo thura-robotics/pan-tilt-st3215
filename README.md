@@ -1,4 +1,4 @@
-# pt_camera Virtual Environment Setup
+# Human-Tracking Pan-Tilt Camera
 
 This guide provides instructions on how to create a virtual environment named `pt_camera` and install the necessary dependencies from `requirements.txt`.
 
